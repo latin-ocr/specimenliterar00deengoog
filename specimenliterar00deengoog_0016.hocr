@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./specimenliterar00deengoog_0016.png"; bbox 0 0 2876 4814; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 428 1867 936 2020">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 428 1867 936 2020">
+     <span class='ocr_line' id='line_1_1' title="bbox 428 1867 936 2020; baseline 0.008 -58"><span class='ocrx_word' id='word_1_1' title='bbox 428 2011 431 2020; x_wconf 25' lang='grc' dir='ltr'><strong><em>Ι</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 484 1867 936 1966; x_wconf 76' lang='lat' dir='ltr'><strong>PARENTIBUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 332 2183 1078 2307">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 332 2183 1078 2307">
+     <span class='ocr_line' id='line_1_2' title="bbox 332 2183 1078 2307; baseline 0.003 -3"><span class='ocrx_word' id='word_1_3' title='bbox 332 2183 625 2306; x_wconf 69' lang='lat' dir='ltr'>opums</span> <span class='ocrx_word' id='word_1_4' title='bbox 673 2208 1078 2307; x_wconf 73' lang='lat' dir='ltr'><strong>cAmsslMls</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 595 2661 824 2752">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 595 2661 824 2752">
+     <span class='ocr_line' id='line_1_3' title="bbox 595 2661 824 2752; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 595 2661 824 2752; x_wconf 62' lang='lat' dir='ltr'><strong>Sacrum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1442 4814">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1442 4814">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1442 4814; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1442 4814; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
